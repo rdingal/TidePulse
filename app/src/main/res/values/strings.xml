@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TidePulse</string>
+    <string name="nav_tides">Tides</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_saved">Favorites</string>
+    <string name="use_gps_button">Use GPS</string>
+    <string name="search_beaches_hint">Search beach, city, or coastal town…</string>
+    <string name="rising_tide">Rising Tide</string>
+    <string name="falling_tide">Falling Tide</string>
+    <string name="high_tide">High Tide</string>
+    <string name="low_tide">Low Tide</string>
+    <string name="unit_feet">ft</string>
+    <string name="unit_meters">m</string>
+    <string name="noaa_source_badge">NOAA Harmonic</string>
+    <string name="marine_source_badge">Global Marine</string>
+    <string name="location_permission_title">Locate Your Nearest Beach</string>
+    <string name="location_permission_rationale">Share your location to automatically pull real-time tide levels for nearby beaches, or search any coastal spot worldwide.</string>
+    <string name="grant_location_action">Enable GPS</string>
+    <string name="inland_notice_title">Inland Coordinates Detected</string>
+    <string name="inland_notice_body">This spot is inland without ocean tide telemetry. Jump to the nearest coastal station or search a shoreline beach.</string>
+</resources>
